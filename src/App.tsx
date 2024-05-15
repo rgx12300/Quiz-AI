@@ -3,7 +3,7 @@ function App() {
     <div className=''>
       <div className='h-4 w-full bg-white' />
       <iframe
-        src='https://quiz-ai-kohl.vercel.app/'
+        src='http://localhost:3000'
         frameBorder='0'
         className='w-full h-screen'
       ></iframe>
